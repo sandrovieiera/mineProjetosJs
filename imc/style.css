@@ -1,0 +1,49 @@
+body {
+    background: rgb(43, 43, 18);
+    font: normal 15pt Arial;
+    }
+    header {
+    color: aliceblue;
+    text-align: center;
+    }
+    
+    section {
+    background: rgb(5, 20, 42);
+    border-radius: 5px;
+    padding: 30px;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    box-shadow: 5px 5px 10px white;
+    font-size: 21px;
+    color: aliceblue;
+    text-align: center;
+    
+    }
+    ::placeholder{
+        color: aliceblue;
+    }
+    input {
+        background: black;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+
+    .sub {
+        border-radius: 15px;
+        background-color: brown;
+        color: aliceblue;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        cursor: pointer;
+
+    }
+    .sub:hover {
+        border: 2px solid white;
+    }
+    
+    footer {
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    }
