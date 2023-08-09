@@ -1,0 +1,38 @@
+body {
+    background: rgb(3, 3, 41);
+    font: normal 15pt Arial;
+    }
+    header {
+    color: aliceblue;
+    text-align: center;
+    }
+    
+    section {
+    background: rgb(131, 66, 66);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    }
+
+    .btn {
+        background: green;
+        color: azure;
+        cursor: pointer;
+        transition: 1;
+        border-radius: 5px;
+    }
+
+    .btn:hover {
+        border: 2px solid green;
+        background: white;
+        color: green;
+    }
+
+    footer {
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    }
