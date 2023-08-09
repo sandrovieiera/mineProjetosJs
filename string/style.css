@@ -1,0 +1,37 @@
+body {
+    background: rgb(15, 45, 19);
+    font: normal 15pt Arial;
+    }
+    header {
+    color: aliceblue;
+    text-align: center;
+    }
+
+    .div {
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        color: aliceblue;
+        
+    }
+    input {
+        
+        color: black;
+        margin-top: 5px;
+        font: 900;
+    }
+    
+    section {
+    background: rgb(139, 32, 32);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    }
+    
+    footer {
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    }
