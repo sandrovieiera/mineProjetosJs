@@ -1,0 +1,40 @@
+body {
+    background-image: url(/assets/img/pexels-markus-winkler-18512833.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat ;
+    margin: 0;
+
+}
+
+.cent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+    color: red;
+    
+   
+}
+.numero {
+    margin-top: 50px;
+    font-size: 70px;
+    
+}
+
+#repeti {
+    font-size: 25px;
+}
+
+button {
+    border-radius: 10px;
+    color: black;
+    background-color: green;
+    cursor: pointer;
+    padding: 15px;
+
+}
+
